@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Targu Jiu YOUth"
+rootProject.name = "YOUth URL"
 include(":app")
- 

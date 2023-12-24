@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.targujiuyouth"
+    namespace = "com.example.youthurl"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.targujiuyouth"
+        applicationId = "com.example.youthurl"
         minSdk = 25
         targetSdk = 34
         versionCode = 1
