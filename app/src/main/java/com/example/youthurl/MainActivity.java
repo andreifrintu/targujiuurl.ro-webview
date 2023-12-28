@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         webView.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
         webView.getSettings().setAllowFileAccess(true);
         webView.getSettings().setAllowFileAccessFromFileURLs(true);
-        webView.loadUrl("https://dev.codulluiandrei.ro/targujiuurl.ro/");
+        webView.loadUrl("https://targujiuurl.ro/");
 
         //make translucent statusBar on kitkat devices
         if (Build.VERSION.SDK_INT >= 19 && Build.VERSION.SDK_INT < 21) {
